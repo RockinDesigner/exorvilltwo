@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+/app
+bower.json
+gulpfile.js
+package.json
+package-lock.json
+.bowerrc
